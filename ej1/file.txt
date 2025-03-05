@@ -1,0 +1,5 @@
+Linux es un sistema operativo de código abierto basado en Unix, ampliamente utilizado en servidores y dispositivos embebidos. 
+Su flexibilidad permite adaptarlo a distintas necesidades, desde escritorios hasta supercomputadoras. 
+Gracias a su comunidad activa, recibe constantes mejoras y actualizaciones. Muchas distribuciones de Linux, como Ubuntu y Fedora, ofrecen interfaces amigables para el usuario. 
+La estabilidad y seguridad de este sistema lo hacen ideal para entornos empresariales. En el mundo del desarrollo, Linux es una plataforma esencial para programadores y administradores de sistemas. 
+Su filosofía de software libre fomenta la innovación y el aprendizaje colaborativo.

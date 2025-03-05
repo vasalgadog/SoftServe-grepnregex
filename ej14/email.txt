@@ -1,0 +1,19 @@
+This is a random text file with some email addresses.
+
+rdifranceshci0@tmall.com
+mstrognell1@macromedia.com
+hthurling2@google.com
+gscattergood3@msn.com
+jdimbleby4@github.io
+vhamer5@behance.net
+dmccrum6@fastcompany.com
+atumility7@cnet.com
+sdellenty8@posterous.com
+crispine9@admin.ch
+prawsona@army.mil
+jthackwrayb@harvard.edu
+tnuttc@redcross.org
+pkornyakovd@ibm.com
+bwolfere@ed.gov
+
+Be careful with this file, it has some email addresses but I think it's not a real information. Yes, I hope.
