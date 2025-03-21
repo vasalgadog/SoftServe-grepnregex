@@ -38,7 +38,7 @@ Use grep to print matching lines along with their line numbers.
 Write a script using grep to list all filenames containing the word "script" in their content.
 </details>
 <details>
- <summary><h2>10. Pipe with grep 🔜</h2></summary>
+ <summary><h2>10. Pipe with grep ✅</h2></summary>
 Write a script that lists running processes (ps aux) and uses grep to display only processes owned by a specific user.
 </details>
 <details>
@@ -66,18 +66,18 @@ Create a script to extract all valid IPv4 addresses from a log file using grep a
 Write a script that uses grep to extract URLs (e.g., http or https) from a document.
 </details>
 <details>
- <summary><h2>17. Find Dates in Specific Format</h2></summary>
+ <summary><h2>17. Find Dates in Specific Format ✅</h2></summary>
 Use grep to extract all dates matching the format YYYY-MM-DD from a file.
 </details>
 <details>
- <summary><h2>18. Regex Alternation</h2></summary>
+ <summary><h2>18. Regex Alternation ✅</h2></summary>
 Write a script that finds lines containing either "failed" or "denied" using regex alternation.
 </details>
 <details>
- <summary><h2>19. Using Extended Regex</h2></summary>
+ <summary><h2>19. Using Extended Regex ✅</h2></summary>
 Write a script using grep -E to find all lines containing words that have three or more consecutive vowels.
 </details>
 <details>
- <summary><h2>20. Combine Grep with Other Commands</h2></summary>
+ <summary><h2>20. Combine Grep with Other Commands ✅</h2></summary>
 Create a script that lists the 5 most recent logins (last) and filters entries using grep to display only logins from a particular user or IP address.
 </details>

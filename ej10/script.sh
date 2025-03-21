@@ -7,6 +7,9 @@ if [ -z "$user" ]; then
     exit 1
 fi
 
-ps aux | grep -E "^$user\+?" | grep -v "grep"
+# Fix > 7 characters on username
+if [ ${#user} -gt 7 ]; then
+    user="${user:0:7}+"
+fi
 
-# it fails if the username is large than 7 characters
+ps aux | grep -E "^$user\+?" | grep -v "grep"
